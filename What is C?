@@ -1,1 +1,28 @@
+What is C Programming?
+-C is a powerful and fast programming language developed by Dennis Ritchie. It is one of the most popular programming languages and is widely used for software development, operating systems, embedded systems, and system applications.
 
+Why Learn C?
+-Builds a strong programming foundation.
+-Helps understand how computers and memory work.
+-Makes learning other languages easier.
+-Widely used in system and embedded programming.
+-Important for Data Structures and Algorithms.
+
+What Do We Need to Use C?
+-A code editor like Visual Studio Code or Code::Blocks
+-A C compiler such as GCC Compiler
+-A computer with a terminal/command prompt
+
+How to Set Up C?
+-Install a code editor.
+-Install a C compiler.
+-Create a .c file.
+-Write your code, compile it, and run the program.
+
+What Can You Do with C?
+-Build software applications
+-Develop operating systems
+-Create embedded and IoT systems
+-Learn Data Structures and Algorithms
+-Build games and system tools
+-Start a career in software development
