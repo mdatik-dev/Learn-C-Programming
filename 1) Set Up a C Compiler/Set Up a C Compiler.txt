@@ -1,0 +1,8 @@
+Install a compiler and code editor:
+
+GCC Compiler
+Code::Blocks IDE
+Visual Studio Code
+
+
+Must be file save extraction .c

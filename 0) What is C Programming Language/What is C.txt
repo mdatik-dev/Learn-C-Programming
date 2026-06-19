@@ -1,0 +1,3 @@
+What is C?
+
+C is a powerful, fast, and widely used programming language developed by Dennis Ritchie in the early 1970s. Many operating systems, embedded systems, and other programming languages are built using C.
