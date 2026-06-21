@@ -1,0 +1,13 @@
+Variables are used to store data in a program.
+
+| Data Type            | Example                                   |
+| -------------------- | ----------------------------------------- |
+| `int`                | `int age = 20;`                           |
+| `float`              | `float price = 99.99;`                    |
+| `double`             | `double pi = 3.14;`                       |
+| `char`               | `char grade = 'A';`                       |
+| `short int`          | `short int year = 2025;`                  |
+| `long int`           | `long int population = 1000000;`          |
+| `long long int`      | `long long int num = 9876543210;`         |
+| `unsigned int`       | `unsigned int marks = 100;`               |
+| `unsigned long long` | `unsigned long long money = 99999999999;` |
