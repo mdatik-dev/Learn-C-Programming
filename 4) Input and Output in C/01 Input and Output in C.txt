@@ -1,0 +1,26 @@
+C-তে Input এবং Output করার জন্য stdio.h লাইব্রেরি ব্যবহার করা হয়।
+	---   #include <stdio.h>
+
+Format Specifiers
+
+| Type          | Specifier |
+| ------------- | --------- |
+| int           | `%d`      |
+| float         | `%f`      |
+| double        | `%lf`     |
+| char          | `%c`      |
+| string        | `%s`      |
+| unsigned int  | `%u`      |
+| long int      | `%ld`     |
+| long long int | `%lld`    |
+
+
+Most Important Functions for Beginners
+--------------------------------------
+printf() → Output
+scanf() → Input
+fgets() → String Input
+puts() → String Output
+getchar() → Character Input
+putchar() → Character Output
+
