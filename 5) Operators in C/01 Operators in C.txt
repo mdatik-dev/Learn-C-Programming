@@ -1,0 +1,68 @@
+1. Arithmetic Operators
+Operator	Meaning
++	Addition
+-	Subtraction
+*	Multiplication
+/	Division
+%	Modulus (Remainder)
+
+
+2. Relational (Comparison) Operators
+Operator	Meaning
+==	Equal to
+!=	Not equal
+>	Greater than
+<	Less than
+>=	Greater than or equal
+<=	Less than or equal
+
+
+3. Logical Operators
+Operator	Meaning
+&&	AND
+`	
+!	NOT
+
+
+4. Assignment Operators
+Operator	Example
+=	a = 10
++=	a += 5
+-=	a -= 5
+*=	a *= 5
+/=	a /= 5
+%=	a %= 5
+
+
+5. Increment and Decrement Operators
+Operator	Meaning
+++	Increase by 1
+--	Decrease by 1
+
+
+6. Bitwise Operators
+Operator	Meaning
+&	AND
+`	`
+^	XOR
+~	NOT
+<<	Left Shift
+>>	Right Shift
+
+
+Most Used Operators
+Arithmetic → + - * / %
+Comparison → == != > < >= <=
+Logical → && || !
+Assignment → = += -= *= /=
+Increment/Decrement → ++ --
+Ternary → ?:
+Size → sizeof()
+Address → &
+Pointer → *
+Bitwise → & | ^ ~ << >>
+
+
+
+
+
